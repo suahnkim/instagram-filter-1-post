@@ -1,0 +1,26 @@
+Here are citations for common citation formats: 
+
+APA:
+Kim, S., Sio, P., & Im, Y.. (2020). Instagram compression test dataset by iaslab. https://iaslab.org/download#compressed_db.
+
+
+MLA:
+Kim, Suah et al. "Instagram compression test dataset by iaslab." https://iaslab.org/download#compressed_db. (2020).
+
+bibtex: 
+@misc{SK_iaslab_instragram_compressed_db,
+author = "{Kim, Suah and Sio, Pui San and Im, Yeji}",
+title = "{Instagram compression test dataset by iaslab}",
+year = 2020,
+howpublished = "\url{https://iaslab.org/download#compressed_db}",
+publisher={iaslab},
+}
+
+Chicago:
+Kim, Suah, Pui San, Sio, and Yeji, Im. "Instagram compression test dataset by iaslab." https://iaslab.org/download#compressed_db. (2020).
+
+Harvard:
+Kim, S., Sio, P., and Im, Y.. (2020). Instagram compression test dataset by iaslab. https://iaslab.org/download#compressed_db.
+
+Vancouver:
+Kim, S, Sio, P, Im, Y. Instagram compression test dataset by iaslab. https://iaslab.org/download#compressed_db.
